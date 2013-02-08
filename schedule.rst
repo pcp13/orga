@@ -8,7 +8,7 @@ Python for Physicists - Lausanne, Feb 2013
 Schedule
 --------
 
-.. contents
+.. contents::
 
 Day 1 - Morning
 ...............
