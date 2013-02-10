@@ -32,8 +32,10 @@ Day 1 - Morning
 
   * Basic syntax and type system
   * Lists and dictionaries
+  * Control flow and list comprehensions
   * Functions, classes and modules
-  * List comprehensions and lambda functions
+  * Exception handling
+
 
 Day 1 - Afternoon
 .................
