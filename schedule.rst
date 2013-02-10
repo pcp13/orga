@@ -149,6 +149,7 @@ Day 5 - Afternoon
   * scikits-learn
   * MDP
   * scikits-image
+  * Pandas
   * Sympy
   * Wakari
   * Blaze
