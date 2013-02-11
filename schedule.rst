@@ -29,6 +29,7 @@ Day 1 - Morning
   * Using alternative interfaces, QTConsole and IPYNotebook
 
   * Material: Chapter 1.1.3 of the Python Scientific Lecture Notes (`HTML <http://scipy-lectures.github.com/intro/intro.html#the-interactive-workflow-ipython-and-a-text-editor>`_)
+  * `IPython Notebook Demo <https://github.com/pcp13/ipynb-demo>`_
 
 * Basic Python
 
