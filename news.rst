@@ -12,3 +12,5 @@
   * There is a bug with the ``UTF-8 locale`` on OSX and the IPython notebook
     and a fix is available.
   * The Ipython notebook is buggy on windows and will note work :(.
+  * Solutions to the Python language introduction can be found on:
+    https://github.com/pcp13/scipy-lecture-notes/tree/master/intro/solutions
