@@ -8,3 +8,4 @@ This repository contains links to the materials and will be used to communicate
 updates during the course.
 
 * `Current schedule <https://github.com/pcp13/orga/blob/master/schedule.rst>`_
+* `News <https://github.com/pcp13/orga/blob/master/news.rst>`_
