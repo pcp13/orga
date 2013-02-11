@@ -54,15 +54,14 @@ Day 1 - Afternoon
   * Zen of Python
   * Material: (`PDF Slides <https://github.com/pcp13/orga/blob/master/materials/materials/haenel-best-practices-talk-slides-2013-02-Lausanne.pdf?raw=true>`_, `Sources <https://github.com/pcp13/best-practices-talk>`_)
 
+Day 2 - Morning
+...............
+
 * Testing
 
   * The merits of writing tests
   * The unittest library
   * Alternatives: nosetest, doctest
-
-
-Day 2 - Morning
-...............
 
 * Version Control with git
 

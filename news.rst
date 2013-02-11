@@ -3,6 +3,7 @@
 
 * NOTICE: for those of you that came late: we will start at 9:00 the coming days
 * NOTICE: the lunch break will be apprx. one hour, instead of 1.5
+* NOTICE: the testing lecture will take place on Tuesday morning
 
 * Notes:
 
