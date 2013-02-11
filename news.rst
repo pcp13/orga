@@ -8,6 +8,6 @@
   * To use anaconda you need to modify the ``PATH`` environment variable.
   * ``anaconda_on`` is something specific to my machine, sorry for the
     confusion.
-  * There is a bug with the ``UTF-8 locale`` and the IPython notebook and a fix
-    is available.
+  * There is a bug with the ``UTF-8 locale`` on OSX and the IPython notebook
+    and a fix is available.
   * The Ipython notebook is buggy on windows and will note work :(.
