@@ -18,7 +18,7 @@ Day 1 - Morning
   * Introduction and motivation
   * Presentation of outline
   * Survey of skill-level/experience
-  * Materials: (`PDF Slides
+  * Material: (`PDF Slides
     <https://github.com/pcp13/orga/blob/master/materials/haenel-introduction-2013-02-pcp13.1.pdf?raw=true>`_)
 
 * System Installation
