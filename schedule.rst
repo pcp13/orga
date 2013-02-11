@@ -28,6 +28,8 @@ Day 1 - Morning
   * Help system, magic functions, aliases, history and tabs
   * Using alternative interfaces, QTConsole and IPYNotebook
 
+  * Material: Chapter 1.1.3 of the Python Scientific Lecture Notes `HTML <http://scipy-lectures.github.com/intro/intro.html#the-interactive-workflow-ipython-and-a-text-editor>`_
+
 * Basic Python
 
   * Basic syntax and type system
@@ -36,6 +38,8 @@ Day 1 - Morning
   * Functions, classes and modules
   * Exception handling
 
+  * Material: Chapter 1.2 of the Python Scientific Lecture Notes
+    `HTML <http://scipy-lectures.github.com/intro/language/python_language.html>`_
 
 Day 1 - Afternoon
 .................
