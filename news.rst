@@ -3,6 +3,32 @@
 
 * NOTICE: everyone who requested a Github repository should now have one.
 
+* ERRATA: There was a mistake in my explanation of ``assertAlmostEqual`` today.
+
+  The function signature is:
+
+  ..code-block ::
+
+    assertAlmostEqual(first, second, places=7, msg=None, delta=None)
+
+  What I explained about how ``assertAlmostEqual`` differentiates between
+  ``places`` and ``delta`` by inspecting the type, was not correct. Instead, the
+  third argument, if it is not a keyword argument, is *always* taken to be
+  ``places``. If you want to use ``delta`` you need pass that value explicitly
+  using the keyword argument.
+
+  Using ``places``::
+
+    assertAlmostEqual(1.126, 1.12, 2)
+
+  Using ``delta``::
+
+    assertAlmostEqual(1.126, 1.12, delta=0.4)
+
+  If you try to pass in a float as ``places`` you should get an exception.
+
+  The examples on the slides were also incorrect, sorry for the confusion.
+
 2013-02-11 Monday
 -----------------
 
