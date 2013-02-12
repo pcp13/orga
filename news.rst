@@ -1,3 +1,8 @@
+2013-02-12 Tuesday
+------------------
+
+* NOTICE: everyone who requested a Github repository should now have one.
+
 2013-02-11 Monday
 -----------------
 
