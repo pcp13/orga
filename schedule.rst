@@ -81,6 +81,8 @@ Day 2 - Afternoon
   * Basic arrays, dtypes and operations
   * Indexing, reshaping and slicing
   * Copies, views and fancy indexing
+  * Materials: Chapter 1.3 of the Python Scientific Lecture Notes (`HTML
+    <http://scipy-lectures.github.com/intro/numpy/index.html>`_)
 
 Day 3 - Morning
 ...............
