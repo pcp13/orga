@@ -62,6 +62,8 @@ Day 2 - Morning
   * The merits of writing tests
   * The unittest library
   * Alternatives: nosetest, doctest
+  * Materials: `PDF Slides
+    <https://github.com/pcp13/orga/blob/master/materials/haenel-testing-talk-2013-02-pcp13.1.pdf?raw=true>`_, `Sources <https://github.com/pcp13/testing-talk>`_, `Exercises <https://github.com/pcp13/testing-exercises>`_
 
 * Version Control with git
 
