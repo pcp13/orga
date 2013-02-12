@@ -71,6 +71,7 @@ Day 2 - Morning
   * Description of the Git storage model
   * Interacting with remote repositories
   * Examples of github usage
+  * Materials: `PDF Slides<https://github.com/pcp13/orga/blob/master/materials/haenel-git-talk-4d92601.pdf?raw=true>`_
 
 Day 2 - Afternoon
 .................
