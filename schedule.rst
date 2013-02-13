@@ -43,6 +43,8 @@ Day 1 - Morning
 
   * Material: Chapter 1.2 of the Python Scientific Lecture Notes
     (`HTML <http://scipy-lectures.github.com/intro/language/python_language.html>`_)
+  * Exercises are included in the lecture notes
+  * `Solutions <https://github.com/scipy-lectures/scipy-lecture-notes/tree/master/intro/solutions>`_)
 
 Day 1 - Afternoon
 .................
@@ -63,7 +65,8 @@ Day 2 - Morning
   * The unittest library
   * Alternatives: nosetest, doctest
   * Materials: `PDF Slides
-    <https://github.com/pcp13/orga/blob/master/materials/haenel-testing-talk-2013-02-pcp13.1.pdf?raw=true>`_, `Sources <https://github.com/pcp13/testing-talk>`_, `Exercises <https://github.com/pcp13/testing-exercises>`_
+    <https://github.com/pcp13/orga/blob/master/materials/haenel-testing-talk-2013-02-pcp13.1.pdf?raw=true>`_, `Sources <https://github.com/pcp13/testing-talk>`_
+  * Exercises and solutions are available from a `Git repository <https://github.com/pcp13/testing-exercises>`_
 
 * Version Control with git
 
@@ -72,6 +75,7 @@ Day 2 - Morning
   * Interacting with remote repositories
   * Examples of github usage
   * Materials: `PDF Slides <https://github.com/pcp13/orga/blob/master/materials/haenel-git-talk-4d92601.pdf?raw=true>`_
+  * Exercises are at the end of the slides
 
 Day 2 - Afternoon
 .................
@@ -83,6 +87,8 @@ Day 2 - Afternoon
   * Copies, views and fancy indexing
   * Materials: Chapter 1.3 of the Python Scientific Lecture Notes (`HTML
     <http://scipy-lectures.github.com/intro/numpy/index.html>`_)
+  * Exercises are included in the lecture notes
+  * `Solutions <https://github.com/scipy-lectures/scipy-lecture-notes/tree/master/intro/solutions>`_)
 
 Day 3 - Morning
 ...............
@@ -99,7 +105,10 @@ Day 3 - Morning
   * Numerical integration: scipy.integrate
   * Signal processing: scipy.signal
 
-  * Material: Chapter 1.5 of the Python Scientific Lecture Notes (`HTML <http://scipy-lectures.github.com/intro/scipy.html>`_, `Solutions <https://github.com/scipy-lectures/scipy-lecture-notes/tree/master/intro/solutions>`_)
+  * Material: Chapter 1.5 of the Python Scientific Lecture Notes (`HTML <http://scipy-lectures.github.com/intro/scipy.html>`_)
+  * Exercises are part of the lecture notes
+  * `Solutions <https://github.com/scipy-lectures/scipy-lecture-notes/tree/master/intro/solutions>`_)
+
   
 
 Day 3 - Afternoon
