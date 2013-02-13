@@ -44,7 +44,7 @@ Day 1 - Morning
   * Material: Chapter 1.2 of the Python Scientific Lecture Notes
     (`HTML <http://scipy-lectures.github.com/intro/language/python_language.html>`_)
   * Exercises are included in the lecture notes
-  * `Solutions <https://github.com/scipy-lectures/scipy-lecture-notes/tree/master/intro/solutions>`_)
+  * `Solutions <https://github.com/scipy-lectures/scipy-lecture-notes/tree/master/intro/solutions>`_
 
 Day 1 - Afternoon
 .................
@@ -54,7 +54,7 @@ Day 1 - Afternoon
   * Best practices
   * Development methodologies
   * Zen of Python
-  * Material: (`PDF Slides <https://github.com/pcp13/orga/blob/master/materials/materials/haenel-best-practices-talk-slides-2013-02-Lausanne.pdf?raw=true>`_, `Sources <https://github.com/pcp13/best-practices-talk>`_)
+  * Material: `PDF Slides <https://github.com/pcp13/orga/blob/master/materials/materials/haenel-best-practices-talk-slides-2013-02-Lausanne.pdf?raw=true>`_, `Sources <https://github.com/pcp13/best-practices-talk>`_
 
 Day 2 - Morning
 ...............
@@ -88,7 +88,7 @@ Day 2 - Afternoon
   * Materials: Chapter 1.3 of the Python Scientific Lecture Notes (`HTML
     <http://scipy-lectures.github.com/intro/numpy/index.html>`_)
   * Exercises are included in the lecture notes
-  * `Solutions <https://github.com/scipy-lectures/scipy-lecture-notes/tree/master/intro/solutions>`_)
+  * `Solutions <https://github.com/scipy-lectures/scipy-lecture-notes/tree/master/intro/solutions>`_
 
 Day 3 - Morning
 ...............
@@ -107,7 +107,7 @@ Day 3 - Morning
 
   * Material: Chapter 1.5 of the Python Scientific Lecture Notes (`HTML <http://scipy-lectures.github.com/intro/scipy.html>`_)
   * Exercises are part of the lecture notes
-  * `Solutions <https://github.com/scipy-lectures/scipy-lecture-notes/tree/master/intro/solutions>`_)
+  * `Solutions <https://github.com/scipy-lectures/scipy-lecture-notes/tree/master/intro/solutions>`_
 
   
 
