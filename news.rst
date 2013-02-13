@@ -2,6 +2,9 @@
 --------------------
 
 * REMINDER: please try to use the pair programming technique
+* ANNOUNCEMENT: if you ever need to run other executables, for example
+  ``make``, ``gcc`` or ``git`` from Python, use the `sh module
+  <http://amoffat.github.com/sh/>`_
 
 2013-02-12 Tuesday
 ------------------
