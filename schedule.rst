@@ -120,6 +120,7 @@ Day 3 - Afternoon
   * Customizing lines, points, labels, axes, titles
   * Advice for publication quality plots
   * Alternative plotting libraries, Chaco, Bokeh
+  * Material: Chapter 1.4 of the Python Scientific Lecture Notes (`HTML <http://scipy-lectures.github.com/intro/matplotlib/matplotlib.html>`_)
 
 Day 4 - Morning
 ...............
