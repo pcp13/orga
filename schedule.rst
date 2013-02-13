@@ -99,7 +99,7 @@ Day 3 - Morning
   * Numerical integration: scipy.integrate
   * Signal processing: scipy.signal
 
-  * Material: Chapter 1.5 of the Python Scientific Lecture Notes (`HTML http://scipy-lectures.github.com/intro/scipy.html`_)
+  * Material: Chapter 1.5 of the Python Scientific Lecture Notes (`HTML <http://scipy-lectures.github.com/intro/scipy.html>`_)
 
 Day 3 - Afternoon
 .................
