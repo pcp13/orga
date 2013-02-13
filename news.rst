@@ -1,3 +1,8 @@
+2013-02-13 Wednesday
+--------------------
+
+* REMINDER: please try to use the pair programming technique
+
 2013-02-12 Tuesday
 ------------------
 
