@@ -16,9 +16,9 @@
 
   The function signature is:
 
-  ..code-block:: python
+  .. code-block:: python
 
-    assertAlmostEqual(first, second, places=7, msg=None, delta=None)
+      assertAlmostEqual(first, second, places=7, msg=None, delta=None)
 
   What I explained about how ``assertAlmostEqual`` differentiates between
   ``places`` and ``delta`` by inspecting the type, was not correct. Instead, the
