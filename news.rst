@@ -16,7 +16,7 @@
 
   The function signature is:
 
-  ..code-block ::
+  ..code-block:: python
 
     assertAlmostEqual(first, second, places=7, msg=None, delta=None)
 
