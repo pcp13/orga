@@ -54,7 +54,7 @@ Day 1 - Afternoon
   * Best practices
   * Development methodologies
   * Zen of Python
-  * Material: `PDF Slides <https://github.com/pcp13/orga/blob/master/materials/materials/haenel-best-practices-talk-slides-2013-02-Lausanne.pdf?raw=true>`_, `Sources <https://github.com/pcp13/best-practices-talk>`_
+  * Material: `PDF Slides <https://github.com/pcp13/orga/blob/master/materials/haenel-best-practices-talk-slides-2013-02-Lausanne.pdf>`_, `Sources <https://github.com/pcp13/best-practices-talk>`_
 
 Day 2 - Morning
 ...............
