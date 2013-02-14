@@ -130,6 +130,9 @@ Day 4 - Morning
   * multiprocessing
   * concurrency with IPython
   * message passing with mpi4py
+  * Materials: ` PDF Slides
+    <https://github.com/pcp13/orga/blob/master/materials/haenel-parallel-talk-2013-02-pcp13.1-1-gd423122.pdf?raw=true>`_, `Sources <https://github.com/pcp13/parallel-talk>`_
+  * Exercises and solutions are available from a `Git repository <https://github.com/pcp13/parallel-exercises>`_
 
 Day 4 - Afternoon
 .................
