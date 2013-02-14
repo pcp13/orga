@@ -142,8 +142,10 @@ Day 4 - Afternoon
   * Ctypes
   * Swig
   * Cython
+  * Material: Chapter 2.12 of the Python Scientific Lecture Notes (`HTML <http://scipy-lectures.github.com/advanced/interfacing_with_c/interfacing_with_c.html>`_)
 
 * Numpy internals, the ndarray structure
+
 
 Day 5 - Morning
 ...............
