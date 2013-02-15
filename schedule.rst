@@ -167,6 +167,8 @@ Day 5 - Afternoon
   * Interfacing with Databases
   * HDF5 with PyTables
   * Using compression
+  * Material: `PDF Slides
+    <https://github.com/pcp13/orga/blob/master/materials/haenel-data-storage-2013-02-pcp13.1.pdf?raw=true>`_, `Sources <https://github.com/pcp13/data-storage-talk>`_
 
 * Examination
 
