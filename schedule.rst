@@ -158,9 +158,6 @@ Day 5 - Morning
   * Useful optimizations
   * Material: Chapters 2.3 and 2.4 of the Python Scientific Lecture Notes (`HTML <http://scipy-lectures.github.com/advanced/debugging/index.html>`_ and `HTML <http://scipy-lectures.github.com/advanced/optimizing/index.html>`_)
 
-Day 5 - Afternoon
-.................
-
 * Scientific Data Storage -- load and save your data
 
   * Pickle, cPickle, NPY/NPZ
@@ -169,6 +166,9 @@ Day 5 - Afternoon
   * Using compression
   * Material: `PDF Slides
     <https://github.com/pcp13/orga/blob/master/materials/haenel-data-storage-2013-02-pcp13.1.pdf?raw=true>`_, `Sources <https://github.com/pcp13/data-storage-talk>`_
+
+Day 5 - Afternoon
+.................
 
 * Examination
 
