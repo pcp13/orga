@@ -3,6 +3,8 @@
 
 * IMPORTANT: the Data-Storage talk will take place in the morning. The exam
   will take place directly after lunch, at 13:30.
+* ANNOUNCEMENT: other places to attend python courses this year:
+  `Python Summer School <https://python.g-node.org/wiki/>`_ and `EuroScipy 2013 <https://www.euroscipy.org/>`_
 
 2013-02-13 Wednesday
 --------------------
