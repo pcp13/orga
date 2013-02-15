@@ -1,3 +1,9 @@
+2013-02-15 Friday
+-----------------
+
+* IMPORTANT: the Data-Storage talk will take place in the morning. The exam
+  will take place directly after lunch, at 13:30.
+
 2013-02-13 Wednesday
 --------------------
 
